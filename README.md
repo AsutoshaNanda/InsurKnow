@@ -12,9 +12,33 @@
 </div>
 
 --- 
-<div align="center"> 
-<h2>📋 Table of Contents</h2> <table>   <tr>     <td><a href="#features">✨ Features</a></td>     <td><a href="#requirements">📦 Requirements</a></td>     <td><a href="#installation">🔧 Installation</a></td>   </tr>   <tr>     <td><a href="#configuration">⚙️ Configuration</a></td>     <td><a href="#usage">🎮 Usage</a></td>     <td><a href="#architecture">🏗️ Architecture</a></td>   </tr>   <tr>     <td><a href="#knowledge-base">📚 Knowledge Base</a></td>     <td><a href="#contributing">🤝 Contributing</a></td>     <td><a href="#license">📄 License</a></td>   </tr> </table> 
-</div> 
+<div align="center">
+    <h2>📋 Table of Contents</h2>
+    <table>
+        <tr>
+            <td><a href="#features">✨ Features</a></td>
+            <td><a href="#requirements">📦 Requirements</a></td>
+            <td><a href="#installation">🔧 Installation</a></td>
+        </tr>
+        <tr>
+            <td><a href="#configuration">⚙️ Configuration</a></td>
+            <td><a href="#usage">🎮 Usage</a></td>
+            <td><a href="#architecture">🏗️ Architecture</a></td>
+        </tr>
+        <tr>
+            <td><a href="#knowledge-base">📚 Knowledge Base</a></td>
+            <td><a href="#contributing">🤝 Contributing</a></td>
+            <td><a href="#license">📄 License</a></td>
+        </tr>
+        <tr>
+           <td style="padding:0; border:none;"></td>
+            <td style="text-align:center;">
+                <a href="#troubleshooting">🐛 Troubleshooting</a>
+            </td>
+            <td style="padding:0; border:none;"></td>
+        </tr>
+    </table>
+</div>
 
 ---
 
